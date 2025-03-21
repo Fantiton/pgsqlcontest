@@ -1,0 +1,14 @@
+{
+  "name": "pgsqlcontest",
+  "version": "1.0.0",
+  "description": "Testowe połączenia z pgsql z poziomu node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Filip Celejewski",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
